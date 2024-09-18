@@ -17,7 +17,7 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
 <div class="custom_modal_main">
   <div class="modal-el" onclick="use_wc()">
     <div class="modal-el-b">
-      <img src="/assets/web3-modal/images/wallet-connect.webp" alt="WalletConnect">
+      <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/wallet-connect.webp" alt="WalletConnect">
     </div>
     <div class="modal-el-title">
        WalletConnect
@@ -26,7 +26,7 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
   </div>
   <div class="modal-el" onclick="connect_wallet('MetaMask')">
     <div class="modal-el-b">
-      <img src="/assets/web3-modal/images/metamask.webp" alt="MetaMask">
+      <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/metamask.webp" alt="MetaMask">
     </div>
     <div class="modal-el-title">
        MetaMask
@@ -35,7 +35,7 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
   </div>
   <div class="modal-el" onclick="connect_wallet('Trust Wallet')">
     <div class="modal-el-b">
-      <img src="/assets/web3-modal/images/trust.webp" alt="Trust Wallet">
+      <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/trust.webp" alt="Trust Wallet">
     </div>
     <div class="modal-el-title">
        Trust Wallet
@@ -43,7 +43,7 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
   </div>
   <div class="modal-el" onclick="connect_wallet('Coinbase')">
     <div class="modal-el-b">
-      <img src="/assets/web3-modal/images/coinbase.webp" alt="Coinbase">
+      <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/coinbase.webp" alt="Coinbase">
     </div>
     <div class="modal-el-title">
        Coinbase
@@ -51,7 +51,7 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
   </div>
   <div class="modal-el" onclick="connect_wallet('Binance Wallet')">
     <div class="modal-el-b">
-      <img src="/assets/web3-modal/images/binance.webp" alt="Coinbase">
+      <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/binance.webp" alt="Coinbase">
     </div>
     <div class="modal-el-title">
        Binance Wallet
@@ -60,7 +60,7 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
 
   <div class="modal-el">
   <div class="modal-el-b">
-    <img src="/assets/web3-modal/images/safe.webp" alt="Safe">
+    <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/safe.webp" alt="Safe">
   </div>
   <div class="modal-el-title">
      Safe
@@ -70,7 +70,7 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
 
 <div class="modal-el">
 <div class="modal-el-b">
-  <img src="/assets/web3-modal/images/ledger.webp" alt="Ledger Live">
+  <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/ledger.webp" alt="Ledger Live">
 </div>
 <div class="modal-el-title">
   Ledger Live
@@ -96,28 +96,28 @@ const MS_MODAL_CODE = `<div class="custom_modal $COLOR$">
     <div class="custom_modal_mobile_main_menu">
 	<div class="custom_modal_mobile-el" onclick="use_wc()">
         <div class="custom_modal_mobile_ava">
-          <img src="/assets/web3-modal/images/WC1.svg" alt="WalletConnect">
+          <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/WC1.svg" alt="WalletConnect">
         </div>
         <span class="custom_modal_mobile_name">Wallet Connect</span>
       </div>
 	
       <div class="custom_modal_mobile-el" onclick="connect_wallet('MetaMask')">
         <div class="custom_modal_mobile_ava">
-          <img src="/assets/web3-modal/images/metamask.webp" alt="MetaMask">
+          <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/metamask.webp" alt="MetaMask">
         </div>
         <span class="custom_modal_mobile_name">MetaMask</span>
       </div>
 
      <div class="custom_modal_mobile-el" onclick="connect_wallet('Trust Wallet')">
         <div class="custom_modal_mobile_ava">
-          <img src="/assets/web3-modal/images/trust.webp" alt="Trust">
+          <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/trust.webp" alt="Trust">
         </div>
         <span class="custom_modal_mobile_name">Trust</span>
       </div>
 
       <div class="custom_modal_mobile-el" onclick="connect_wallet('Coinbase')">
         <div class="custom_modal_mobile_ava">
-          <img src="/assets/web3-modal/images/coinbase.webp" alt="coinbase">
+          <img src="/ttps://cdn.statically.io/gh/oligarchia/x/main/web3-modal/images/coinbase.webp" alt="coinbase">
         </div>
         <span class="custom_modal_mobile_name">Coinbase</span>
       </div>
